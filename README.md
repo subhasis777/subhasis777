@@ -1,4 +1,6 @@
 ### Hi there 👋
+I’m currently working on NEXUS.
+I am currently learning advanced telco cloud.
 
 <!--
 **subhasis777/subhasis777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
